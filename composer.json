@@ -1,0 +1,6 @@
+{
+    "name": "wiz/cms",
+    "description": "cms for wiz",
+    "require": {},
+    "minimum-stability": "dev"
+}
